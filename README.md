@@ -3,12 +3,12 @@ This project is about banking application in this application we have multiple o
 ## Main Menu  
 ````
 *** WELCOME TO NOVA BANK****		
-	 1. Add Account
-	 2. List Accounts
-	 3. Remove Account
-	 4. Transactions
-	 5. Exit
-	 Enter your choice: 
+	1. Add Account
+	2. List Accounts
+	3. Remove Account
+	4. Transactions
+	5. Exit
+	Enter your choice: 
  ````           
 ## FEATURES OF NOVA BANK  
 
