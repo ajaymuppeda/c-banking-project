@@ -30,4 +30,13 @@ We can transfer money from your existing account to any account,that already mus
 #### 4.4.Return to main menu
 It will return to main menu. 
 ### 5.Exit  
-It will quit the application.
+It will quit the application.  
+
+---  
+
+## Project Maintainers & Contributors  
+<table>
+  <tr>
+    <td align="center"><a href="https://ajaymuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/170258834?v=4" width="100px;" alt=""/><br /><sub><b>Ajay Muppeda</b></sub></a></td>
+  </tr>
+</table>  
